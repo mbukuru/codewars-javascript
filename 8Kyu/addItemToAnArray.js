@@ -5,7 +5,6 @@ The websites array has already been defined for you using the following code:
 var websites = [];
 */
 
-var websites = [];
 websites.push('codewars');
 
 console.log(websites)
