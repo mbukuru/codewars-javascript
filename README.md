@@ -1,1 +1,1 @@
-# codewars-javascript
+# codewars javascript
